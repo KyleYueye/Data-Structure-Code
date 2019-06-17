@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/KevinYue/CLionProjects/HW1/jxy1.cpp
+iostream
+-
+vector
+-
+time.h
+-
+cstdlib
+-
+
